@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75e33ebf-45eb-4976-aa38-facfa72c7a35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex15.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex15_sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex15_sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex15a.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex15a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex15b.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex15b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex16.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex16a.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex16a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex17.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex18.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex19.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex20.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex21.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex23.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex24.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex26.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex29.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex30.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex31.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex3b.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex3b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex5.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex6.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex7.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex8.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex9.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tekst16a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tekst16a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FggnANNPEgOjAn01FK7Tf7woto" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/GJ/lpthw"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75e33ebf-45eb-4976-aa38-facfa72c7a35" name="Changes" comment="" />
+      <created>1664919306260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664919306260</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
