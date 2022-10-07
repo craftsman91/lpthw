@@ -1,6 +1,6 @@
 # lpthw
 
 Just archiving my learning process.
-Excercises from "Learning Python The Hard Way" book.
+Excercises from "Learn Python 3 The Hard Way" book.
 
 🌱
