@@ -15,7 +15,7 @@ class Song(object):
 
 bulls_on_parade = Song(["They rally around tha family"])
 
-piosenka = Song()
+piosenka = Song([])
 piosenka.happy_bday()
 
 bulls_on_parade.sing_me_a_song()

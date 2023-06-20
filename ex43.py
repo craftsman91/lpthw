@@ -1,6 +1,6 @@
 class Scene(object):
 
-    def enter(self)
+    def enter(self):
         pass
 
 
